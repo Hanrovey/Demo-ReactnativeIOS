@@ -8,4 +8,4 @@ React Native集成到原生iOS项目
 2、CoCoaPods会自动创建一些目录，不利于项目管理。
 综上所述，因此采用手动集成，下面介绍手动集成方法。
 
-原文：https://blog.csdn.net/Hanrovey/article/details/89055560 
+具体步骤参考原文：https://blog.csdn.net/Hanrovey/article/details/89055560 
